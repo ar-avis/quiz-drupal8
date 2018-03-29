@@ -1,0 +1,11 @@
+{
+  "name": "drupal/quiz",
+  "type": "drupal-module",
+  "description": "A module that enables the creation of quizzes.",
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "extra": {
+    "installer-name": "quiz"
+  }
+}
